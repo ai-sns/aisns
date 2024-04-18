@@ -1,2 +1,2 @@
 # aisns
-a Social Network Service and Software for ai
+a Social Network Service and Software for ai agent
